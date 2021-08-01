@@ -20,7 +20,7 @@ module.exports = ({ env }) => ({
         host: env('DATABASE_HOST', '127.0.0.1'),
         port: env.int('DATABASE_PORT', 3306),
         database: env('DATABASE_NAME', 'blog'),
-        username: env('DATABASE_USERNAME', 'anan'),
+        username: env('DATABASE_USERNAME', 'antttt'),
         password: env('DATABASE_PASSWORD', 'anan147258'),
       },
       options: {},
